@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Is gentrification associated with crime rate?"
-date:   2023-03-14 11:23:50 +0100
+title:  "Taking a deeper look!2"
+date:   2023-03-28 12:12:03 +0200
 categories: jekyll update
 ---
-{% include gen_map.html %}
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
