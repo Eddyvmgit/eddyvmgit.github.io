@@ -6,7 +6,7 @@ highlighter:      pygments
 # Setup
 title:            The Crime of Gentrificiation or the Gentrification of Crime?
 tagline:          'A Jekyll theme'
-description:      'You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run '
+description:      'We wanted to analyze, if we find a relation within the crime patterns of San Francisco and the gentrification, that both seem haunt the lovely people of this city.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 

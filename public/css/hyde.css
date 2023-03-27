@@ -38,10 +38,34 @@ html {
   html {
     font-size: 16px;
   }
+  .sidebar-about h1 {
+    font-size: 1.6rem;
+  }
+  .lead {
+    font-size: 1.1rem;
+  }
 }
 @media (min-width: 58em) {
   html {
     font-size: 20px;
+  }
+  .sidebar-about h1 {
+    font-size: 1.3rem;
+  }
+  .lead {
+    font-size: 0.9rem;
+  }
+}
+
+@media (min-width: 68em) {
+  html {
+    font-size: 20px;
+  }
+  .sidebar-about h1 {
+    font-size: 1.3em;
+  }
+  .lead {
+    font-size: 0.9rem;
   }
 }
 
@@ -80,7 +104,6 @@ html {
   color: #fff;
   padding-top: 10;
   font-family: "Abril Fatface", serif;
-  font-size: 2rem;
 }
 
 /* Sidebar nav */
