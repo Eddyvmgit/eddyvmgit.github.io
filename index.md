@@ -27,15 +27,15 @@ Thus, we wanted to analyze if we find a relationship between the crime patterns 
   </div>
   {% endfor %}
 </div>
-<h1 id="Conclusion" class="post-title">
-        Conclusion
+<h1 id="Crime Types" class="post-title">
+       Crime Type Analysis
 </h1>
 
-Hereee as a last plot wanted to have an interactive histogram with Bokeh and divided this to our last team-member who sadly did not respond in the end - this is not meant as an excuse and we accept any grading - as we know that each of us should be fluent with all of the plots, but still the time was to short and we wanted to explain why this conclusion part and the plot below is not to the standards.
+In this part, as a last plot, we wanted to have an interactive histogram with Bokeh to assess which crimes in which districts changed the most and draw a relationship among specific crime types to the gentrification status. We divided this task to our third team-member but he did not respond shortly before submission. This is not meant as an excuse and we accept any grading, as we know that each of us should know how to create all of the plots, but still we were not able to construct a good plot in that short-time frame and we wanted to explain why the final  part of our report is not to the expected standards.
 
-Here is our final times series plot:
+Here is our final times series plot (Though, it is not working yet):
 
-{% include bokeh_plot.html %}
+{% include final_bokeh.html %}
 
 
 
