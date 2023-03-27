@@ -17,3 +17,11 @@ DISCLAIMER: COULD NOT IMPORT THE MAP AS A JS LIBRARY DID STRIKE! We included a g
 <a href="https://drive.google.com/file/d/1RXXu_4gKxePYEquW-yIGZAzilaVpAxJ_/view?usp=share_link" ><img style="max-width: 300px" src="{{ site.baseurl }}assets/map_2.png"><a>
 
 From the early maps we can see that there is a high incidence of crime in the downtown Civic Center neighborhood and near the intersection of Bryant Street and Harrient Street, as well as in the south near the harbor in the Kirkwood/La Salle to Oakdale/Palou neighborhoods. Comparing to the mid-term map, crime decreases throughout the exterior of San Francisco, with crime distributed in areas north of Central, but the area near 1C where BryBryaBryant Street and Harrient Street meet is still a high crime area. Crime decreased in the south, with no significant increase in crime near the harbor compared to other areas. Probably due to the presence of some technology companies in the south, the level of education of the surrounding residents has increased and crime cases have decreased.
+
+References
+
+1."U.S. recession fuels crime rise, police chiefs say" https://www.reuters.com/article/us-usa-economy-crime-idUSTRE50Q6FR20090127
+
+2."SF sees highest crime rate since 2008": https://www.sfexaminer.com/news/sf-sees-highest-crime-rate-since-2008/article_c705b09e-1eaa-5783-b367-17537458cdd6.html
+
+3."Central Market Economic Strategy": https://commissions.sfplanning.org/cpcpackets/CentralMarketEconomicStrategyCPC.pdf
