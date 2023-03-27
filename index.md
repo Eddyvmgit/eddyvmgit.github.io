@@ -31,5 +31,11 @@ Thus, we wanted to analyze if we find a relationship between the crime patterns 
         Conclusion
 </h1>
 
+Hereee as a last plot wanted to have an interactive histogram with Bokeh and divided this to our last team-member who sadly did not respond in the end - this is not meant as an excuse and we accept any grading - as we know that each of us should be fluent with all of the plots, but still the time was to short and we wanted to explain why this conclusion part and the plot below is not to the standards.
+
+Here is our final times series plot:
+
+{% include bokeh_plot.html %}
+
 
 
