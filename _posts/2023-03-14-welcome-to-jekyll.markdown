@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Is gentrification associated with crime rate?"
-date:   2023-03-14 11:23:50 +0100
+date:   2023-03-27 11:23:50 +0100
+number: "2"
 categories: jekyll update
 ---
 {% include gen_map.html %}

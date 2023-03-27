@@ -253,6 +253,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 228)
   http_parser.rb (~> 0.6.0)
+  jekyll-coffeescript
   jekyll-feed (~> 0.12)
   liquid
   minima (~> 2.5)
