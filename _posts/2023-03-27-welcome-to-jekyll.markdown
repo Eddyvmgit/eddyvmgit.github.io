@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Taking a deeper look!"
 date:   2023-03-27 12:12:03 +0200
 categories: jekyll update
 ---
