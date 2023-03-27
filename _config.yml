@@ -6,7 +6,7 @@ highlighter:      pygments
 # Setup
 title:            The Crime of Gentrificiation or the Gentrification of Crime?
 tagline:          'A Jekyll theme'
-description:      'We wanted to analyze, if we find a relation within the crime patterns of San Francisco and the gentrification, that both seem haunt the lovely people of this city.'
+description:      'We wanted to analyze, if we find a relation within the crime patterns of San Francisco and its gentrification, which both seem haunt the lovely people of this city.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
