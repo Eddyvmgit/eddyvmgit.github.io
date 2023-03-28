@@ -8,8 +8,6 @@ Assignment 2 - for the course Social Data Analysis and Visualization (02806) off
 
 Contributing Members:
 
-Md. Aftabul Hoque
-
 Qiannan Liu
 
 Edison von Matt
