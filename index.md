@@ -12,7 +12,7 @@ Before we dived into our research project, we asked ourselves: “What is San Fr
 <a href="https://en.wikipedia.org/wiki/Gentrification_of_San_Francisco">https://en.wikipedia.org/wiki/Gentrification_of_San_Francisco</a>
 
 
-Thus, we wanted to analyze if we find a relationship between the crime patterns of San Francisco and its gentrification, which both seem to haunt the lovely people of this city. We wanted to find out whether gentrification leads to a decrease or rather an increase in a district crime rate and if there are certain crime types more affected than others?
+Thus, we wanted to analyze if we find a relationship between the crime patterns of San Francisco and its gentrification, which both seem to haunt the lovely people of this city. We wanted to find out whether gentrification leads to a decrease or rather an increase in a districts crime rate and if there are certain crime types more affected than others?
 
 <div class="posts">
   {% for post in site.posts %}
