@@ -16,12 +16,12 @@ Here, researchers of the urban displacement project analyzed housing market dyna
 
 <img style="max-width: 300px" src="{{ site.baseurl }}assets/labels.png">
 
-We downloaded the relevant typology classifications incleading the geological data from this link: 
+We downloaded the relevant typology classifications including the geological data from the following link: 
 <a href="https://github.com/urban-displacement/displacement-typologies
 ">https://github.com/urban-displacement/displacement-typologies
 </a>
 
-However, the gentrification data is on a sub-district/neighbourhood level while the crime dataset utilised a district level. To combine both datasets, we used a python library called "shapely" to classify the smaller neighbourhoods of the gentrification dataset within the bigger districts of the crime dataset based on the geo-locations retrieved from the relevant geoJSON files. Whereafter, each district contained the typologies of all its sub-neighbourhoods, for which we used the most frequent typology
+However, the gentrification data was mapped on a sub-district/neighbourhood level while the crime dataset utilised a district level. To combine both datasets, we used a python library called "shapely" to classify the smaller neighbourhoods of the gentrification dataset within the bigger districts of the crime dataset based on their geological shape locations retrieved from the relevant geoJSON files. Whereafter, each district contained the typologies of all its sub-neighbourhoods, for which we then used the most frequent typology
 
 As an example, the district "Southern" had three classified neighbourhoods that included the following typologies: ["Early/Ongoing Gentrification", "Early/Ongoing Gentrification", "Advanced Gentrification"], which led us to classify the district as "Early/Ongoing Gentrification".
 
