@@ -4,10 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Assignment 2 - for the course Social Data Analysis and Visualization (02806) offered by the Technical University of Denmark.
+Final Project B - for the course Social Data Analysis and Visualization (02806) offered by the Technical University of Denmark.
 
 Contributing Members:
 
-Qiannan Liu
+Edison Alain von Matt
 
-Edison von Matt
+Andreu Guitart
+
+Valeriu Seremet

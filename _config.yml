@@ -4,9 +4,9 @@ highlighter:      pygments
 
 
 # Setup
-title:            The Crime of Gentrificiation or the Gentrification of Crime?
+title:            An attempt to make the streets of NYC safer
 tagline:          'A Jekyll theme'
-description:      'We wanted to analyze, if we find a relation within the crime patterns of San Francisco and its gentrification, which both seem haunt the lovely people of this city.'
+description:      'This story investigates hotspots in New York City having a high number of traffic accidents'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
@@ -20,4 +20,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/eddyvmgit/assignment_2_code
+  repo:           https://github.com/eddyvmgit/social_data_project_code
